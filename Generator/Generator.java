@@ -26,4 +26,3 @@ public class Generator {
 		arq.close();
 	}
 }
-
